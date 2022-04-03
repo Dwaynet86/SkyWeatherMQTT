@@ -3,8 +3,7 @@
   "name": "Sky Weather Station",
   "version": "2022.4.1",
   "config_flow": true,
-  "requirements": [""],
+  "requirements": [],
   "documentation": "",
-  "codeowners": ["@dtruex86"],
-  "quality_scale": ""
+  "codeowners": ["@dtruex86"]
 }
