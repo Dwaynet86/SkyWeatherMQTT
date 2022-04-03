@@ -1,0 +1,6 @@
+{
+    "name": "Sky Weather Station",
+    "render_readme": true,
+    "domains": ["sensor", "binary_sensor"],
+    "iot_class": "Local Push"
+}
