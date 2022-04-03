@@ -5,5 +5,7 @@
   "config_flow": true,
   "requirements": [],
   "documentation": "",
-  "codeowners": ["@dtruex86"]
+  "codeowners": [
+    "@dtruex86"
+  ]
 }
