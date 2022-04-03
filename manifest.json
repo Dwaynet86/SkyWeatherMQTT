@@ -1,6 +1,9 @@
 {
   "domain": "skyweather",
-  "name": "Sky Weather 2",
+  "name": "Sky Weather Station",
+  "version": "0.1",
+  "config_flow": true,
+  "requirements": [""],
   "documentation": "",
   "codeowners": ["@dtruex86"],
   "quality_scale": ""
