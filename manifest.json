@@ -1,0 +1,7 @@
+{
+  "domain": "skyweather",
+  "name": "Sky Weather 2",
+  "documentation": "",
+  "codeowners": ["@dtruex86"],
+  "quality_scale": ""
+}
