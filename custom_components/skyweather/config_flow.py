@@ -32,7 +32,7 @@ class skyweatherConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
             title=f"Ecowitt on port {port}",
             data=device_config
         )
-      async def async_step_user(self, user_input=None):
+    async def async_step_user(self, user_input=None):
         """Give initial instructions for setup."""
         if user_input is not None:
             return await self.async_step_initial_options()
